@@ -34,5 +34,5 @@ Instead of only generating generic test cases, TestCraft AI also explains why ea
 
 ### 1. Clone the repository
 
-```bash
-git clone YOUR_REPOSITORY_URL
+
+git clone https://github.com/sharonabraham5824-dev/testcraft-ai
